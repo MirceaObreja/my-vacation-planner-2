@@ -1,0 +1,5 @@
+{
+  "name": "Urlaubsplaner",
+  "description": "Ein kollaborativer Urlaubsplaner für Freunde. Verwalte Reiseziele, stimme für Favoriten ab und synchronisiere die Verfügbarkeit in Echtzeit auf einem gemeinsamen Kalender.",
+  "requestFramePermissions": []
+}
